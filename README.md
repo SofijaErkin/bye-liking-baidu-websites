@@ -16,7 +16,10 @@ Baidu's signboard either.
 
 At least, they gives a personal opportunity. 
 
-------------------------------Personal Statement-----------------------
+-----------------------------------------------------------------------
+
+
+So, So, So
 
 
 （Only on the computer. Phone or tablet won’t work）
