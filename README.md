@@ -82,19 +82,19 @@ Just use the command:
 
 In macOS:
 
-1.Mac OS Sierra, Mac OS X El Capitan, Mac OS X Mavericks, Mac OS X Mountain Lion, Mac OS X Lion
+1.macOS Sierra, macOS X El Capitan, macOS X Mavericks, macOS X Mountain Lion, macOS X Lion
 
 sudo killall -HUP mDNSResponder
 
-2.Mac OS X Yosemite
+2.macOS X Yosemite
 
 sudo discoveryutil udnsflushcaches
 
-3.Mac OS X Snow Leopard
+3.macOS X Snow Leopard
 
 sudo dscacheutil -flushcache
 
-4.Mac OS X Leopard and below
+4.macOS X Leopard and below
 
 sudo lookupd -flushcache
 
