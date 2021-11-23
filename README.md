@@ -1,4 +1,24 @@
 # bye-liking-baidu-websites
+
+------------------------------Personal Statement-----------------------
+
+First of all, the most important thing is:
+
+I don't dislike liking Baidu companies, 
+
+but I dislike some of their products.
+
+Also, I dislike some of their business models or patterns.
+
+eg:I don't dislike that product Baidu Tieba. Or, I don't hate 
+
+Baidu's signboard either. 
+
+At least, they gives a personal opportunity. 
+
+------------------------------Personal Statement-----------------------
+
+
 （Only on the computer. Phone or tablet won’t work）
 
 Are you tired of Baidu search？
