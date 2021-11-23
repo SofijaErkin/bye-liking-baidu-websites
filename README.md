@@ -1,5 +1,4 @@
 # bye-liking-baidu-websites
-say bye to like baidu websites
 
 Are you tired of Baidu search？
 
