@@ -83,19 +83,27 @@ Just use the command:
 In macOS:
 
 1.Mac OS Sierra, Mac OS X El Capitan, Mac OS X Mavericks, Mac OS X Mountain Lion, Mac OS X Lion
+
 sudo killall -HUP mDNSResponder
+
 2.Mac OS X Yosemite
+
 sudo discoveryutil udnsflushcaches
+
 3.Mac OS X Snow Leopard
+
 sudo dscacheutil -flushcache
+
 4.Mac OS X Leopard and below
+
 sudo lookupd -flushcache
+
 
 In windows: 
 
 1.push button "Windows+R";
 
-2.RUN windos:flush-DNS-2; 
+2.RUN window:flush-DNS-2; 
 
 3.input "CMD"; 
 
@@ -108,6 +116,6 @@ In Linux: sudo /etc/init.d/networking restart.
 #### 4.Exit the computer terminal and restart the computer
 
 
-OK，that's ALl.
+OK，that's All.
 
 Over, thanks!
