@@ -45,7 +45,7 @@ My idea is to modify the hosts file
 
 (the hosts file is in the etc directory of macOS)
 
-Plesse shine on the cat painting the mimicry, 
+Please shine on the cat painting the mimicry, 
 
 if you are windows or Linux User.
 
@@ -122,7 +122,6 @@ sudo dscacheutil -flushcache
 4.macOS X Leopard and below
 
 sudo lookupd -flushcache
-
 
 In windows: 
 
