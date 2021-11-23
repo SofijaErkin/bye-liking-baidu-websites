@@ -7,7 +7,7 @@ Are you tired of Baidu ads？
 
 Are you tired of Baidu Cloud Disk？
 ## Now 
-It's time to say bye to Baidu sites.
+It's time to say bye to liking Baidu sites.
 ### Please follow the instructions below
 You know, I need to fundamentally block liking Baidu websites. 
 
