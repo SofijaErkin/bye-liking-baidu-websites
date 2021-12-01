@@ -139,6 +139,19 @@ In Linux: sudo /etc/init.d/networking restart.
 
 #### 4.Exit the computer terminal and restart the computer
 
+#### 5.disable all the blank
+
+just use command to remove that host:
+
+"sudo rm -r dir"
+
+or 
+
+edit that host :
+
+add '#' before "127.0.0.1"
+
+Finally, ":wq" + Enter key and Clear/flush DNS cache.
 
 OK，that's All.
 
