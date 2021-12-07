@@ -123,6 +123,10 @@ sudo dscacheutil -flushcache
 
 sudo lookupd -flushcache
 
+OR, no matter what your macOS was, just use:
+
+sudo dscacheutil -flushcache
+
 In windows: 
 
 1.push button "Windows+R";
