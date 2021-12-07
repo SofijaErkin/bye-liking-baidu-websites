@@ -96,6 +96,10 @@ OR
 
 "sudo cp -r /Users/my123mac/Downloads/hosts /etc/hosts".
 
+In short, edit hosts:
+
+"cd .. && cd .. && cd etc && sudo vi hosts"
+
 #### 3.Refresh or execute computer terminal
 Refresh or execute computer terminal，that means Clear/flush DNS cache.
 
