@@ -1,5 +1,7 @@
 # bye-liking-baidu-websites
 
+(Notices: Does not include reference books)
+
 ------------------------------Personal Statement-----------------------
 
 First of all, the most important thing is:
