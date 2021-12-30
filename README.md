@@ -2,6 +2,9 @@
 
 (Notices: Does not include reference books)
 
+I will introduce the more details of this project in the future, if I have time.
+
+
 ------------------------------Personal Statement-----------------------
 
 First of all, the most important thing is:
