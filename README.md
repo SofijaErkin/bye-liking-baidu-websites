@@ -132,7 +132,7 @@ Just use the command:
 
 In macOS:
 
-1.macOS Sierra, macOS X El Capitan, macOS X Mavericks, 
+1.macOS Sierra, macOS X El Capitan, macOS X Mavericks,
 
 macOS X Mountain Lion, macOS X Lion
 
